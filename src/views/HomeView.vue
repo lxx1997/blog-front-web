@@ -1,7 +1,7 @@
 <script setup lang="ts">
+import Banner from "@/components/banner/index"
 </script>
 
 <template>
-  <main>
-  </main>
+  <Banner></Banner>
 </template>
